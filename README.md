@@ -1,5 +1,7 @@
 # unity-package-template
 
+> **⚠️ ARCHIVED** - This repository is no longer actively maintained.
+
 [![CI](https://github.com/Ra-Coding/unity-package-template/actions/workflows/ci.yml/badge.svg)](https://github.com/Ra-Coding/unity-package-template/actions/workflows/ci.yml)
 
 ## How to install
